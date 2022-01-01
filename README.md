@@ -1,5 +1,5 @@
 - 👋 Hi, I’m akhildas vp , Django developer
-- 👀 I’m interested in programmming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akhilvp98@gmail.com
